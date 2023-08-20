@@ -19,7 +19,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in Germany). 
+Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,10 +48,8 @@ Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of 
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
-  
-  
-  
-  <!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎓 Educations
 
@@ -46,8 +60,6 @@ Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
-
-
 
 # 📝 Publications
 

@@ -19,19 +19,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS.), [Xiaochun Cao (操晓春)](http://people.ucas.ac.cn/~xiaochun) (Professor at Sun Yat-sen University, Shenzhen Compus, China),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (postdoc at UCAS) and [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (postdoc at UCAS).
+Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen]([陈吉红-机械科学与工程学院](http://mse.hust.edu.cn/info/1145/1434.htm)) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu]([朱志红-机械科学与工程学院 (hust.edu.cn)](http://mse.hust.edu.cn/info/1145/1422.htm)) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou]([周会成-机械科学与工程学院 (hust.edu.cn)](http://mse.hust.edu.cn/info/1145/1432.htm)) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Simultaneously, he also benefited from the dedicated academic guidance of Academician [Jianwei Zhang]([张建伟（德国国家工程院院士，德国汉堡科学院院士）_百度百科 (baidu.com)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala)) (Academician of the National Academy of Engineering Sciences in Germany). 
 
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
+# 🔥 Research Interests
 
-
-# 🔥 News
 - *2023.08.04*: &nbsp;🎉🎉 Two paper has been accepted by T-PAMI 2023.
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  
+  <!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+
+
+# 🎓 Educations
+
+![sym](images/ucas.jpg)
+
+2019.09 - now, Ph.D. Student.
+
+Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+
+University of Chinese Academy of Sciences, Beijing.
+
+![sym](images/qdu.png)
+
+2015.09 - 2019.06, Undergraduate.
+
+College of Computer Science and Technology.
+
+Qingdao University (QDU), Qingdao. 
+
+
+
+
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,6 +62,7 @@ My research interest includes machine learning and data mining. I have authored 
 [The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
 
 **Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
+
 </div>
 </div>
 
@@ -48,6 +72,7 @@ My research interest includes machine learning and data mining. I have authored 
 [When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
 
 Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
+
 </div>
 </div>
 
@@ -70,15 +95,18 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 # 📖 Services
 
 ### Conferences
- - *NeurIPS*: PC Member (2023)
- - *AAAI*: PC Member (2023, 2024)
- - *ICML*: PC Member (2022)
+
+- *NeurIPS*: PC Member (2023)
+- *AAAI*: PC Member (2023, 2024)
+- *ICML*: PC Member (2022)
 
 ### Journals
+
 - IEEE Transactions on Multimedia (T-MM): Reviewer
 - Multimedia Systems: Reviewer
- 
+
 # 🎖 Honors and Awards
+
 - *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
 - *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
 
@@ -92,6 +120,7 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
+
 </div>
 </div>
 
@@ -103,10 +132,12 @@ University of Chinese Academy of Sciences, Beijing.
 College of Computer Science and Technology.
 
 Qingdao University (QDU), Qingdao.
+
 </div>
 </div>
 
 # 💬 Invited Talks
+
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
 
 # 💻 Project
@@ -121,9 +152,10 @@ Qingdao University (QDU), Qingdao.
 *2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with Decision-Invariant Metrics](https://github.com/statusrank/XCurve). 
 
 - Machine learning and deep learning technologies have recently been successfully employed in many complicated high-stake decision-making applications. The goal of Xcurve learning is to learn high-quality models that can adapt to different decision conditions, which provides a systematic solution to optimize the area under different kinds of performance curves. Welcome to try now and give us feedback!
-</div>
-</div>
+  
+  </div>
+  </div>
 
-<!-- - *2020.02 - 至今*: &nbsp; As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
+<!-- - *2020.02 - 至今*:   As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
 
 XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->

@@ -33,7 +33,7 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
   
   - Dynamics modeling and identification
   
-  - Calibration \& compensation of kinematic errors 
+  - Calibration &amp compensation of kinematic errors 
   
   - Time-optimal trajectory planning (TOTP) and continuous short line segments real-time interpolation
   

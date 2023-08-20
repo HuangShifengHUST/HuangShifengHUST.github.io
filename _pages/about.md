@@ -19,22 +19,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen]([陈吉红-机械科学与工程学院](http://mse.hust.edu.cn/info/1145/1434.htm)) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu]([朱志红-机械科学与工程学院 (hust.edu.cn)](http://mse.hust.edu.cn/info/1145/1422.htm)) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou]([周会成-机械科学与工程学院 (hust.edu.cn)](http://mse.hust.edu.cn/info/1145/1432.htm)) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Simultaneously, he also benefited from the dedicated academic guidance of Academician [Jianwei Zhang]([张建伟（德国国家工程院院士，德国汉堡科学院院士）_百度百科 (baidu.com)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala)) (Academician of the National Academy of Engineering Sciences in Germany). 
+Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Simultaneously, he also benefited from the dedicated academic guidance of Academician [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in Germany). 
 
 # 🔥 Research Interests
 
 - *2023.08.04*: &nbsp;🎉🎉 Two paper has been accepted by T-PAMI 2023.
+
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
+
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
+
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback!
   
   <!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-
-
 # 🎓 Educations
 
-![sym](images/ucas.jpg)
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2019.09 - now, Ph.D. Student.
+
+2019.09 - now, Ph.D. Student.
 
 2019.09 - now, Ph.D. Student.
 
@@ -42,15 +48,14 @@ Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
 
-![sym](images/qdu.png)
-
+<div class='school-box'>
+<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
 2015.09 - 2019.06, Undergraduate.
 
 College of Computer Science and Technology.
 
-Qingdao University (QDU), Qingdao. 
-
-
+Qingdao University (QDU), Qingdao.
 
 
 

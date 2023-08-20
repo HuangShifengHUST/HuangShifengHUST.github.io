@@ -35,27 +35,13 @@ Shifeng Huang(黄石峰, E-mail: shifeng@hust.edu.cn), an Associate Director of 
 
 # 🎓 Educations
 
-<div class='school-box'>
-<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2019.09 - now, Ph.D. Student.
-
-2019.09 - now, Ph.D. Student.
+- 2019.09 - now, Ph.D. Student.
 
 2019.09 - now, Ph.D. Student.
 
 Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
-
-<div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate.
-
-College of Computer Science and Technology.
-
-Qingdao University (QDU), Qingdao.
 
 
 

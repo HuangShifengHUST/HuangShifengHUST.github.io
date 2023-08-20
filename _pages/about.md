@@ -21,8 +21,6 @@ redirect_from:
 
 Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research of industrial robots, and he is an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education under the guidance of esteemed mentors. His graduate advisors included Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
 
-
-
 # 🔥 Research Interests
 
 - **Applications**
@@ -35,7 +33,7 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
   
   - Dynamics modeling and identification
   
-  - Calibration & compensation of kinematic errors 
+  - Calibration \& compensation of kinematic errors 
   
   - Time-optimal trajectory planning (TOTP) and continuous short line segments real-time interpolation
   

@@ -54,12 +54,15 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 <div class='school-box-text' markdown="1">
 
 - 2016.09 - 2019.09, Doctoral student
-
+  
   Major: Mechanical engineering
 
 National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC), School of Mechanical Science &amp; Engineering
 
 Huazhong University of Science and Technology, Wuhan, China
+
+</div>
+</div>
 
 
 
@@ -68,7 +71,7 @@ Huazhong University of Science and Technology, Wuhan, China
 <div class='school-box-text' markdown="1">
 
 - 2015.09-2016.09, Master's student
-
+  
   Major: Mechanical and electronic engineering
 
 National Numerical Control System Engineering Research Center, School of Mechanical Science &amp; Engineering

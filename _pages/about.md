@@ -116,10 +116,10 @@ Central South University, Changsha, China
 
 # 💬 Invited Talks
 
-- *2023*: &nbsp; 第四届中国机器人学术年会，报告：重力场自适应的机器人扩展动力学参数集与稳健混合建模：机理+学习 [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
-- *2022:* &nbsp;IEEE 14th Workshop on Active Disturbance Rejection Control. Topic: Challenges and Considerings on Motion Control of Industrial Robots: An Engineering Pespective [[Video]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
-- *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [[Video]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b)
-- *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding
+- *2023*: &nbsp; 第四届中国机器人学术年会，报告：重力场自适应的机器人扩展动力学参数集与稳健混合建模：机理+学习 [\[Poster\]](url: \docs\2023_ZGJQRXSNH.pdf)
+- *2022:* &nbsp;IEEE 14th Workshop on Active Disturbance Rejection Control. Topic: Challenges and Considerings on Motion Control of Industrial Robots: An Engineering Pespective [[LINK]](https://mp.weixin.qq.com/s/SvmoTYgqF9-4HmZ_sUn92whttps://mp.weixin.qq.com/s/SvmoTYgqF9-4HmZ_sUn92w)
+- *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [[Poster]](url: \docs\2021_ICIRA Poster.pdf)
+- *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding [[Certification]](url: \docs\2020_ICCAR_Best Presentation Award.pdf)
 
 # 📝 Publications
 

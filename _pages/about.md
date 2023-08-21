@@ -73,25 +73,19 @@ Advanced Engineering Talent Experimental Class, School of Mechatronics Engineeri
 
 Central South University, Changsha, China
 
-
-
 # 🎖 Honors and Awards
 
 - *2022* Guangdong Provincial Mechanical Industry Science and Technology Award, First Prize (5/15). (2022年荣获广东省机械工业科学技术奖励一等奖，排名第5)
 
 - *2022* Guangdong Provincial Society of Mechanical Engineering Science and Technology Award, First Prize (5/15). (2022年荣获广东省机械工程学会科学技术奖励一等奖，排名第5)
 
--  *2020* "China Patent Excellence Award" from the National Intellectual Property Administration of China (2/5), Award-Winning Patent: A Method for TCP Calibration of Industrial Robots. (2020 年入选中国国家知识产权局“中国专利优秀奖”，获奖专利：一种工业机器人 TCP 标定方法，排名第2)
+- *2020* "China Patent Excellence Award" from the National Intellectual Property Administration of China (2/5), Award-Winning Patent: A Method for TCP Calibration of Industrial Robots. (2020 年入选中国国家知识产权局“中国专利优秀奖”，获奖专利：一种工业机器人 TCP 标定方法，排名第2)
 
-- *2020* "Best Presentation“ award at the 'IEEE 6th International Conference on Control, Automation and Robotics. Winning Work: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding
+- *2020* "Best Presentation award" at the IEEE 6th International Conference on Control, Automation and Robotics. Winning Work: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding
 
-- *2020* "Special Prize" in the 1st Science and Technology Essay Contest organized by the Foshan Institute of Intelligent Equipment Technology (theme: Fundamental Research on Factors Influencing Industrial Robot Performance). Winning work: Several Key Issues of Industrial Robot Controller: An Interesting Insight. (2020 年荣获佛山智能装备技术研究院第1届“影响工业机器人性能的基础问题研究”科技征文大赛特等奖，获奖作品：从趣谈控制，到论工业机器人中 Controller 的若干问题)
+- *2020* "Special Prize" in the 1st Science and Technology Essay Contest organized by the Foshan Institute of Intelligent Equipment Technology (Theme: Fundamental Research on Factors Influencing Industrial Robot Performance). Winning work: Several Key Issues of Industrial Robot Controller: An Interesting Insight. (2020 年荣获佛山智能装备技术研究院第1届“影响工业机器人性能的基础问题研究”科技征文大赛特等奖，获奖作品：从趣谈控制，到论工业机器人中 Controller 的若干问题)
 
 - *2018*  “Outstanding Contribution Award” from the Foshan Institute of Intelligent Equipment Technology. (2018 年荣获佛山智能装备技术研究院“突出贡献奖”)
-
-
-
-
 
 # 📝 Publications
 

@@ -87,6 +87,16 @@ Central South University, Changsha, China
 
 - *2018*  “Outstanding Contribution Award” from the Foshan Institute of Intelligent Equipment Technology. (2018 年荣获佛山智能装备技术研究院“突出贡献奖”)
 
+
+
+# 📖 Services
+
+- IEEE Transactions on Industrial Electronics (TIE): Reviewer
+- IEEE Robotics and Automation Letters (RA-L): Reviewer
+- IEEE International Conference on Robotics and Automation (ICRA): Reviewer
+  
+  
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
@@ -124,19 +134,6 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 - [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
 
 - [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
-
-# 📖 Services
-
-### Conferences
-
-- *NeurIPS*: PC Member (2023)
-- *AAAI*: PC Member (2023, 2024)
-- *ICML*: PC Member (2022)
-
-### Journals
-
-- IEEE Transactions on Multimedia (T-MM): Reviewer
-- Multimedia Systems: Reviewer
 
 </div>
 </div>

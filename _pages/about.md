@@ -49,20 +49,40 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 # 🎓 Educations
 
+
+
 <div class='school-box'>
-<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div><img src='images/HUST.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 
 - 2016.09 - 2019.09, Doctoral student
   
+  
+  
   Major: Mechanical engineering
+  
+  
 
-National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC), School of Mechanical Science &amp; Engineering
+National Center of Technology Innovation for Intelligent Design and Numerical Control 
+
+(NCTI-IDNC), School of Mechanical Science &amp; Engineering
+
+
 
 Huazhong University of Science and Technology, Wuhan, China
 
+</div>
+</div>
+
+
+</div>
+</div>
+
+</div>
+</div>
+
 <div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div><img src='images/HUST.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 
 </div>
@@ -70,14 +90,23 @@ Huazhong University of Science and Technology, Wuhan, China
 
 - 2015.09-2016.09, Master's student 
   
+  
+  
   Major: Mechanical and electronic engineering
+  
+  
 
 National Numerical Control System Engineering Research Center, School of Mechanical Science &amp; Engineering
 
+
+
 Huazhong University of Science and Technology, Wuhan, China
 
+</div>
+</div>
+
 <div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div><img src='images/CSU.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 
 </div>
@@ -85,11 +114,20 @@ Huazhong University of Science and Technology, Wuhan, China
 
 - 2011.09-2015.09, Undergraduate student 
   
+  
+  
   Major: Mechanical design, manufacturing, and automation
+  
+  
 
 Advanced Engineering Talent Experimental Class, School of Mechatronics Engineering
 
+
+
 Central South University, Changsha, China
+
+</div>
+</div>
 
 </div>
 </div>

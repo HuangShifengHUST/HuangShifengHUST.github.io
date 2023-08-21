@@ -49,13 +49,31 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 # 🎓 Educations
 
-- 2019.09 - now, Ph.D. Student.
+- 2016.09 - 2019.09, Doctoral student
+  
+  Major: Mechanical engineering
 
-2019.09 - now, Ph.D. Student.
+National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC), School of Mechanical Science &amp; Engineering
 
-Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+Huazhong University of Science and Technology, Wuhan, China
 
-University of Chinese Academy of Sciences, Beijing.
+- 2015.09-2016.09, Master's student 
+  
+  Major: Mechanical and electronic engineering
+
+National Numerical Control System Engineering Research Center, School of Mechanical Science &amp; Engineering
+
+Huazhong University of Science and Technology, Wuhan, China
+
+- 2011.09-2015.09, Undergraduate student 
+  
+  Major: Mechanical design, manufacturing, and automation
+
+Advanced Engineering Talent Experimental Class, School of Mechatronics Engineering
+
+Central South University, Changsha, China
+
+
 
 # 📝 Publications
 

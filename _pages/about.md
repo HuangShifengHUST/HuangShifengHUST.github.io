@@ -49,6 +49,10 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 # 🎓 Educations
 
+<div class='school-box'>
+<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+
 - 2016.09 - 2019.09, Doctoral student
   
   Major: Mechanical engineering
@@ -56,6 +60,13 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC), School of Mechanical Science &amp; Engineering
 
 Huazhong University of Science and Technology, Wuhan, China
+
+<div class='school-box'>
+<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+
+</div>
+</div>
 
 - 2015.09-2016.09, Master's student 
   
@@ -65,6 +76,13 @@ National Numerical Control System Engineering Research Center, School of Mechani
 
 Huazhong University of Science and Technology, Wuhan, China
 
+<div class='school-box'>
+<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+
+</div>
+</div>
+
 - 2011.09-2015.09, Undergraduate student 
   
   Major: Mechanical design, manufacturing, and automation
@@ -72,6 +90,9 @@ Huazhong University of Science and Technology, Wuhan, China
 Advanced Engineering Talent Experimental Class, School of Mechatronics Engineering
 
 Central South University, Changsha, China
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
@@ -87,15 +108,11 @@ Central South University, Changsha, China
 
 - *2018*  “Outstanding Contribution Award” from the Foshan Institute of Intelligent Equipment Technology. (2018 年荣获佛山智能装备技术研究院“突出贡献奖”)
 
-
-
 # 📖 Services
 
 - IEEE Transactions on Industrial Electronics (TIE): Reviewer
 - IEEE Robotics and Automation Letters (RA-L): Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA): Reviewer
-  
-  
 
 # 📝 Publications
 

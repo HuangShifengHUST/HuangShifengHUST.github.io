@@ -83,7 +83,7 @@ Central South University, Changsha, China
 
 - *2020* "Best Presentation award" at the IEEE 6th International Conference on Control, Automation and Robotics. Winning Work: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding
 
-- *2020* "Special Prize" in the 1st Science and Technology Essay Contest organized by the Foshan Institute of Intelligent Equipment Technology (Theme: Fundamental Research on Factors Influencing Industrial Robot Performance). Winning work: Several Key Issues of Industrial Robot Controller: An Interesting Insight. (2020 年荣获佛山智能装备技术研究院第1届“影响工业机器人性能的基础问题研究”科技征文大赛特等奖，获奖作品：从趣谈控制，到论工业机器人中 Controller 的若干问题)
+- *2020* "Special Prize" in the 1st Science and Technology Essay Contest organized by the Foshan Institute of Intelligent Equipment Technology (Theme: Fundamental Research on Factors Influencing Industrial Robot Performance). Winning work: Several Key Issues of Industrial Robot Controller: An Interesting Insight. (2020 年荣获由佛山智能装备技术研究院主办的第1届科技征文大赛特等奖，大赛主题：影响工业机器人性能的基础问题研究，获奖作品：从趣谈控制，到论工业机器人中Controller 的若干问题)
 
 - *2018*  “Outstanding Contribution Award” from the Foshan Institute of Intelligent Equipment Technology. (2018 年荣获佛山智能装备技术研究院“突出贡献奖”)
 

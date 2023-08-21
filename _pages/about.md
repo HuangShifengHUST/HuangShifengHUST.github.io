@@ -108,15 +108,24 @@ Central South University, Changsha, China
 
 - *2018*  “Outstanding Contribution Award” from the Foshan Institute of Intelligent Equipment Technology. (2018 年荣获佛山智能装备技术研究院“突出贡献奖”)
 
+
+
 # 📖 Services
 
 - IEEE Transactions on Industrial Electronics (TIE): Reviewer
 - IEEE Robotics and Automation Letters (RA-L): Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA): Reviewer
 
+
+
 # 💬 Invited Talks
 
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2022*: &nbsp; AI TIME Youth PhD Talk of NeurIPS2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2021:*      EEEEEEEEEERRR
+- *2020:*      EEEEEEEEEERRR
+- *2019:*      EEEEEEEEEERRR 
+
+
 
 # 📝 Publications
 
@@ -155,9 +164,6 @@ Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming H
 - [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
 
 - [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
-
-</div>
-</div>
 
 # 💻 Project
 

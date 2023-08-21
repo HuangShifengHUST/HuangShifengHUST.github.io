@@ -21,13 +21,16 @@ redirect_from:
 
 Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research of industrial robots, and aims to bridge the gap between theoretical research and practical engineering applications. Dr. Huang is an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education and was mentored by Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
 
+</div>
+</div>
+
 # 🔥 Research Interests
 
 - **Applications**
   
   - Industrial robots
   
-  - Collaborative robots (cobots)     
+  - Collaborative robots (cobots)    
 
 - **Subjects**
   
@@ -64,8 +67,6 @@ Huazhong University of Science and Technology, Wuhan, China
 </div>
 </div>
 
-
-
 <div class='school-box'>
 <div><img src='images/HUST.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -92,9 +93,6 @@ Huazhong University of Science and Technology, Wuhan, China
 Advanced Engineering Talent Experimental Class, School of Mechatronics Engineering
 
 Central South University, Changsha, China
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 

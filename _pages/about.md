@@ -116,8 +116,8 @@ Central South University, Changsha, China
 
 # 💬 Invited Talks
 
-- *2023*: &nbsp; 第四届中国机器人学术年会，报告：重力场自适应的机器人扩展动力学参数集与稳健混合建模：机理+学习 [\[Poster\]](https://huangshifenghust.github.io/docs/2023ZGJQRXSNH.pdf)
-- *2022:* &nbsp;IEEE 14th Workshop on Active Disturbance Rejection Control. Topic: Challenges and Considerings on Motion Control of Industrial Robots: An Engineering Pespective [\[LINK\]](https://mp.weixin.qq.com/s/SvmoTYgqF9-4HmZ_sUn92w)
+- *2023*: &nbsp; 第四届中国机器人学术年会，报告：重力场自适应的机器人扩展动力学参数集与稳健混合建模：机理+学习 [\[Previewer\]](https://github.com/HuangShifengHUST/HuangShifengHUST.github.io/blob/main/docs/2020-ICCAR-Best-Presentation-Award.pdf)[\[Poster\]](https://huangshifenghust.github.io/docs/2023ZGJQRXSNH.pdf)
+- *2022:* &nbsp;IEEE 14th Workshop on Active Disturbance Rejection Control. Topic: Challenges and Considerings on Motion Control of Industrial Robots: An Engineering Pespective [\[Link\]](https://mp.weixin.qq.com/s/SvmoTYgqF9-4HmZ_sUn92w)
 - *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [\[Poster\]](https://huangshifenghust.github.io/docs/2021ICIRAPoster.pdf)
 - *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding [\[Certification\]](https://github.com/HuangShifengHUST/HuangShifengHUST.github.io/tree/main/docs/2020-ICCAR-Best-Presentation-Award.pdf)
 

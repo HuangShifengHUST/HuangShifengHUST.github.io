@@ -161,13 +161,29 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 
 ### 2020
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAR BEST PRESENTATION</div><img src='images/Grinding_ICCAR_2020.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Target Force Tracking and Automatic Contour Surface Processing in Grinding of Industrial Robots
+
+**Shifeng Huang**, Zhu Zhihong, Chen Jihong, Zhou Xing, Yu Jiaxun, Gao Peiyang and Wang Haoqing. IEEE 2020 6th International Conference on Control, Automation and Robotics, 2020. **(EI, 会议论文，BEST PRESENTATION)** | [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9108006)
+
 </div>
 </div>
 
 ### 2019
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">机械工程学报</div><img src='images/TCP_JME_2019.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- 六关节工业机器人TCP标定模型研究与算法改进
+
+周星, **黄石峰 (通讯作者)**, 朱志红. 机械工程学报, 第 55 卷, 第 11 期: 186-196, 2019. **(EI, 高质量期刊)** | [\[PDF\]](http://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2019.11.186)
+
 </div>
 </div>
+
+
 
 - [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 

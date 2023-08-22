@@ -121,24 +121,43 @@ Central South University, Changsha, China
 - *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [\[Poster\]](/pdf/2021ICIRAPoster.pdf)
 - *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding [\[Certification\]](/pdf/2020-ICCAR-Best-Presentation-Award.pdf)
 
-# 📝 Publications
+# 📝 Papers
+
+### 2023
+
+</div>
+</div>
+
+### 2022
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2022 (TOP)</div><img src='images/BICOM_TMECH_FIG1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+- Collision Detection for Cobots: A Back-Input Compensation Approach
+
+**Huang Shifeng**, Gao Meng, Liu Lei, Chen Jihong and Zhang Jianwei. IEEE/ASME Transactions on Mechatronics, vol. 27, no. 6, pp. 4951-4962, 2022. **(Q1, TOP)** | [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772709)| [[Video]](https://ieeexplore.ieee.org/ielx7/3516/9985401/9772709/supp2-3169084.mp4?arnumber=9772709)
+
+</div>
+</div>
+
+### 2021
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2021 (TOP)</div><img src='images/EDS_TMECH_FIG1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Robust Estimation for an Extended Dynamic Parameter Set of Serial Manipulators and Unmodeled Dynamics Compensation.
 
-**Shifeng Huang**, Chen Jihong, Zhang Jianwei, Zhu Zhihong, Zhou Huicheng, Li Fan and Zhou Xing. IEEE/ASME Transactions on Mechatronics, vol. 27, no. 2, pp. 962-973, 2021. **<font color='red'> (Q1，TOP) </font>** \| [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419753)
+**Shifeng Huang**, Chen Jihong, Zhang Jianwei, Zhu Zhihong, Zhou Huicheng, Li Fan and Zhou Xing. IEEE/ASME Transactions on Mechatronics, vol. 27, no. 2, pp. 962-973, 2021. **(Q1, TOP)** | [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419753)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021 (Long Talk)</div><img src='images/tpauc_icml21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### 2020
 
-[When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
+</div>
+</div>
 
-Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
+### 2019
 
 </div>
 </div>

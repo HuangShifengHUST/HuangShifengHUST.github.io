@@ -5,12 +5,15 @@ main:
 
   - title: "Research Interests"
     url: "/#-research-interests"
-   
+    
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
   - title: "Educations"
     url: "/#-educations"
  
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "/#-honors"
 
   - title: "Services"
     url: "/#-services"
@@ -18,8 +21,11 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
     
-  - title: "Academic Papers"
-    url: "/#-academic-papers"
+  - title: "Papers"
+    url: "/#-papers"
 
   - title: "Patents"
     url: "/#-patents"
+
+  - title: "Projects"
+    url: "/#-projects"

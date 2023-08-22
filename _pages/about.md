@@ -47,11 +47,28 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
   
   - Robotic manufacturing
 
-<!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+# 🔎 Research Experience
+
+<span class='anchor' id='-research-experience'></span>
+
+- 动力学辨识
+
+- 速度规划
+
+- 物理人机交互
+
+- 高精度伺服控制
+
+- TCP标定
+
+- 恒力控制
 
 # 🎓 Educations
 
-<span class='anchor' id='-Educations'></span>
+<span class='anchor' id='-educations'></span>
 
 <div class='school-box'>
 <div><img src='images/HUST.png' alt="sym" width="80"></div>
@@ -98,9 +115,9 @@ Central South University, Changsha, China
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Honors
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='-honors'></span>
 
 - *2022* Guangdong Provincial Mechanical Industry Science and Technology Award, First Prize (5/15). (2022年荣获广东省机械工业科学技术奖励一等奖，排名第5)
 
@@ -131,9 +148,9 @@ Central South University, Changsha, China
 - *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [\[Poster\]](/pdf/2021ICIRAPoster.pdf)
 - *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding [\[Certification\]](/pdf/2020-ICCAR-Best-Presentation-Award.pdf)
 
-# 📝 Academic Papers
+# 📝 Papers
 
-<span class='anchor' id='-academic-papers'></span>
+<span class='anchor' id='-papers'></span>
 
 ### 2023
 
@@ -230,6 +247,12 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 - 肖启伟, 周星, **黄石峰**, 张建华, 黄键. 一种工业机器人工具坐标系及零点自标定方法 [中国], 发明专利, 专利号: ZL 2021 1 0699023.6, 授权下证
 
 - 罗健, 朱志红, **黄石峰**. 一种工业机器人编程轨迹诊断及速度优化的方法 [中国], 发明专利, 专利号: ZL 2018 1 0382999.9, 授权下证
+
+# 👨‍💻 Projects
+
+<span class='anchor' id='-projects'></span>
+
+- 2020年度广东省基础与应用基础研究基金佛山市联合基金（粤佛联合基金）项目-重点项目“工业机器人健康监测诊断及控制优化理论与方法”，主要成员 （2020年10月-2023年09月）
 
 ---
 

@@ -123,7 +123,8 @@ Central South University, Changsha, China
 
 # 📝 Publications
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2021 (TOP)</div><img src='images/EDS_TMECH_FIG1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
 

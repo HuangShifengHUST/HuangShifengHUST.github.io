@@ -203,22 +203,25 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 </div>
 </div>
 
-# 💻 Project
+# 💻 Patent
 
-<!-- <div class='school-box'>
-<div><img src='images/Xcurve.png' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1"> -->
+- **黄石峰**, 张卓奇, 龚智浩, 王渴建, 招子安, 周星, 朱志红. 机器人末端工具残余振动抑制方法 [中国], 发明专利, 专利号: ZL 2022 1 1091380.5, 授权下证
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/Xcurve_2.png' alt="sym" width="120%"></div></div>
-<div class='paper-box-text' markdown="1">
+</div>
+</div>
 
-*2020.02 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the development of [XCurve: Machine Learning with Decision-Invariant Metrics](https://github.com/statusrank/XCurve). 
+- 周星, **黄石峰**, 王群, 杨海滨, 李帆. 一种工业机器人 TCP 标定方法 [中国], 发明专利, 专利号: ZL 2016 1 0849202.2, 授权下证
 
-- Machine learning and deep learning technologies have recently been successfully employed in many complicated high-stake decision-making applications. The goal of Xcurve learning is to learn high-quality models that can adapt to different decision conditions, which provides a systematic solution to optimize the area under different kinds of performance curves. Welcome to try now and give us feedback!
+</div>
+</div>
+
+- 张岳翔, **黄石峰**, 高萌, 陈思敏, 周星. 一种基于二阶广义动量观测器的机器人碰撞检测方法 [中国], 发明专利, 专利号: ZL 2021 1 0699021.7, 授权下证
   
   </div>
   </div>
 
-<!-- - *2020.02 - 至今*:   As core member, I participated in the developments of X as [XCurve: Machine Learning with X-Curve Metrics](https://github.com/statusrank/XCurve). 
+- 张岳翔, **黄石峰**, 高萌, 陈思敏, 周星. 一种机器人碰撞响应方法 [中国], 发明专利, 专利号: ZL 2021 1 0700560.8, 授权下证
 
-XCurve focuses on **the design criteria of the objective function for ML tasks**, which can be formulated as a series of X-metric (say AUROC, AUPRC, AUTKC) optimization problems considering the **average performance of all decision thresholds** during the training phase. Welcome to try now and give us feedback! -->
+- 肖启伟, 周星, **黄石峰**, 张建华, 黄键. 一种工业机器人工具坐标系及零点自标定方法 [中国], 发明专利, 专利号: ZL 2021 1 0699023.6, 授权下证
+
+- 罗健, 朱志红, **黄石峰**. 一种工业机器人编程轨迹诊断及速度优化的方法 [中国], 发明专利, 专利号: ZL 2018 1 0382999.9, 授权下证

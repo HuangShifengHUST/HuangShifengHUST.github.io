@@ -147,6 +147,16 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science China Technological Sciences</div><img src='images/Fault_SCTS_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Harmonic reducer in-situ fault diagnosis for industrial robots based on deep learning
+
+Zhou Xing, Zhou Huicheng, He Yiming, **Huang Shifeng**, Zhu Zhihong and Chen Jihong. Science China Technological Sciences, vol. 65, no. 9, pp. 2116-2126, 2022. **(Q2)** | [[PDF]](https://link.springer.com/content/pdf/10.1007/s11431-022-2129-9.pdf?pdf=button%20sticky)
+
+</div>
+</div>
+
 ### 2021
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2021 (TOP)</div><img src='images/EDS_TMECH_FIG1.gif' alt="sym" width="100%"></div></div>
@@ -159,6 +169,16 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIRA 2021</div><img src='images/Collision_ICIRA_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Research on collision detection and collision reaction of collaborative robots
+
+Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, Gao Meng and **Huang Shifeng**. Intelligent Robotics and Applications: 14th International Conference, ICIRA, 2021. **(EI, 会议论文)** | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-030-89098-8_48.pdf?pdf=inline%20link)| [\[Video\]](https://www.bilibili.com/video/BV1XG411f7fT/?spm_id_from=333.999.0.0)
+
+</div>
+</div>
+
 ### 2020
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAR BEST PRESENTATION</div><img src='images/Grinding_ICCAR_2020.gif' alt="sym" width="100%"></div></div>
@@ -166,7 +186,7 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 
 - Target Force Tracking and Automatic Contour Surface Processing in Grinding of Industrial Robots
 
-**Shifeng Huang**, Zhu Zhihong, Chen Jihong, Zhou Xing, Yu Jiaxun, Gao Peiyang and Wang Haoqing. IEEE 2020 6th International Conference on Control, Automation and Robotics, 2020. **(EI, 会议论文，BEST PRESENTATION)** | [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9108006)
+**Shifeng Huang**, Zhu Zhihong, Chen Jihong, Zhou Xing, Yu Jiaxun, Gao Peiyang and Wang Haoqing. IEEE 2020 6th International Conference on Control, Automation and Robotics, ICCAR, 2020. **(EI, 会议论文，BEST PRESENTATION)** | [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9108006)
 
 </div>
 </div>
@@ -182,22 +202,6 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 
 </div>
 </div>
-
-- [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
-
-- [AUC-Oriented Domain Adaptation: From Theory to Algorithm](https://ieeexplore.ieee.org/abstract/document/10214222). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Peisong Wen, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Domain-Adaptation) \|
-
-- [Asymptotically Unbiased Instance-wise Regularized Partial AUC Optimization: Theory and Algorithm](https://arxiv.org/pdf/2210.03967.pdf). Huiyang Shao, Qianqian Xu, Zhiyong Yang, **Shilong Bao** and Qingming Huang. Advances in Neural Information Processing Systems (NeurIPS), 2022. \| [\[Code\]](https://github.com/Shaocr/PAUCI) \|
-
-- [Optimizing Two-way Partial AUC with an End-to-end Framework](https://arxiv.org/abs/2206.11655). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2022. \| [\[Code\]](https://github.com/statusrank/XCurve) \|
-
-- [AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems](https://arxiv.org/abs/2206.12169). Wenzheng Hou, Qianqian Xu, Zhiyong Yang, **Shilong Bao**, Yuan He and Qingming Huang. International Conference on Machine Learning (**ICML**), 2022. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
-
-- [Rethinking Collaborative Metric Learning: Toward an Efficient Alternative without Negative Sampling](https://arxiv.org/abs/2206.11549). **Shilong Bao**, Qianqian Xu, Zhiyong Yang, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2022. \| [\[Code\]](https://github.com/statusrank/SFCML) \|
-
-- [Learning with Multiclass AUC: Theory and Algorithms](https://arxiv.org/pdf/2107.13171.pdf). Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**),  2021. \| [\[Code\]](https://github.com/joshuaas/Learning-with-Multiclass-AUC-Theory-and-Algorithms) \|
-
-- [Collaborative Preference Embedding against Sparse Labels](http://www.jdl.link/doc/2011/20191229_ACMM-Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf). **Shilong Bao**, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM International Conference on Multimedia (**ACM-MM**), 2019. \| [\[Code\]](https://github.com/statusrank/CPE)\|
 
 # 💻 Project
 

@@ -13,13 +13,13 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Services"
-  - url: "/#-services"
+    url: "/#-services"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
     
   - title: "Academic Papers"
-  - url: "/#-academic-papers"
+    url: "/#-academic-papers"
 
   - title: "Patents"
-  - url: "/#-patents"
+    url: "/#-patents"

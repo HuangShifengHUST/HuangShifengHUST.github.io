@@ -50,9 +50,9 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 </div>
 </div>
 
-# 🔎 Research Experience
+# 🏭 Engineering Practice
 
-<span class='anchor' id='-research-experience'></span>
+<span class='anchor' id='-engineering-practice'></span>
 
 - 动力学辨识
 
@@ -256,4 +256,4 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 
 ---
 
-*[注释]: 🏭 新栏目图标
+*[注释]: 🏭🔎 新栏目图标

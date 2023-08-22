@@ -125,7 +125,7 @@ Central South University, Changsha, China
 
 ### 2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMS 2023 (TOP)</div><img src='images/JMS_2023_FIG1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMS 2023 (TOP)</div><img src='images/JMS_2023_FIG1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - In-situ fault diagnosis for the harmonic reducer of industrial robots via multi-scale mixed convolutional neural networks

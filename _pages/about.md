@@ -23,6 +23,8 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 # 🔥 Research Interests
 
+<span class='anchor' id='-research-interests'></span>
+
 - **Applications**
   
   - Industrial robots
@@ -48,6 +50,8 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 <!-- - *2022.02*:  🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎓 Educations
+
+<span class='anchor' id='-Educations'></span>
 
 <div class='school-box'>
 <div><img src='images/HUST.png' alt="sym" width="80"></div>
@@ -96,6 +100,8 @@ Central South University, Changsha, China
 
 # 🎖 Honors and Awards
 
+<span class='anchor' id='-honors-and-awards'></span>
+
 - *2022* Guangdong Provincial Mechanical Industry Science and Technology Award, First Prize (5/15). (2022年荣获广东省机械工业科学技术奖励一等奖，排名第5)
 
 - *2022* Guangdong Provincial Society of Mechanical Engineering Science and Technology Award, First Prize (5/15). (2022年荣获广东省机械工程学会科学技术奖励一等奖，排名第5)
@@ -110,18 +116,24 @@ Central South University, Changsha, China
 
 # 📖 Services
 
+<span class='anchor' id='-services'></span>
+
 - IEEE Transactions on Industrial Electronics (TIE): Reviewer
 - IEEE Robotics and Automation Letters (RA-L): Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA): Reviewer
 
 # 💬 Invited Talks
 
+<span class='anchor' id='-invited-talks'></span>
+
 - *2023*: &nbsp; 第四届中国机器人学术年会，报告：重力场自适应的机器人扩展动力学参数集与稳健混合建模：机理+学习[\[Poster\]](/pdf/2023ZGJQRXSNH.pdf)
 - *2022:* &nbsp;IEEE 14th Workshop on Active Disturbance Rejection Control. Topic: Challenges and Considerings on Motion Control of Industrial Robots: An Engineering Pespective [\[Link\]](https://mp.weixin.qq.com/s/SvmoTYgqF9-4HmZ_sUn92w)
 - *2021:* &nbsp;The 14th International Conference on Intelligent (ICIRA). Topic: Research on Collision Detection and Collision Reaction of Collaborative Robots [\[Poster\]](/pdf/2021ICIRAPoster.pdf)
 - *2020:* &nbsp;The 6th International Conference on Control, Automation and Robotics (ICCAR). Topic: Target Force Tracking and Automatic Contour Surface Processing in Industrial Robot Grinding [\[Certification\]](/pdf/2020-ICCAR-Best-Presentation-Award.pdf)
 
-# 📝 Papers
+# 📝 Academic Papers
+
+<span class='anchor' id='-academic-papers'></span>
 
 ### 2023
 
@@ -204,6 +216,8 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 </div>
 
 # 💻 Patents
+
+<span class='anchor' id='-patents'></span>
 
 - **黄石峰**, 张卓奇, 龚智浩, 王渴建, 招子安, 周星, 朱志红. 机器人末端工具残余振动抑制方法 [中国], 发明专利, 专利号: ZL 2022 1 1091380.5, 授权下证
 

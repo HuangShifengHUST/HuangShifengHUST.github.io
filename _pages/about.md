@@ -174,7 +174,7 @@ Zhou Xing, Zhou Huicheng, He Yiming, **Huang Shifeng**, Zhu Zhihong and Chen Jih
 
 - Research on collision detection and collision reaction of collaborative robots
 
-Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, Gao Meng and **Huang Shifeng**. Intelligent Robotics and Applications: 14th International Conference, ICIRA, 2021. **(EI, 会议论文)** | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-030-89098-8_48.pdf?pdf=inline%20link)| [\[Video\]](https://www.bilibili.com/video/BV1XG411f7fT/?spm_id_from=333.999.0.0)
+Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, Gao Meng and **Huang Shifeng (通讯作者)**. Intelligent Robotics and Applications: 14th International Conference, ICIRA, 2021. **(EI, 会议论文)** | [[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-030-89098-8_48.pdf?pdf=inline%20link)| [\[Video\]](https://www.bilibili.com/video/BV1XG411f7fT/?spm_id_from=333.999.0.0)
 
 </div>
 </div>

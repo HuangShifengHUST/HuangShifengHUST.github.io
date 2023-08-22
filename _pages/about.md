@@ -47,9 +47,6 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
   
   - Robotic manufacturing
 
-</div>
-</div>
-
 # 🏭 Engineering Practice
 
 <span class='anchor' id='-engineering-practice'></span>
@@ -65,6 +62,9 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 - TCP标定
 
 - 恒力控制
+
+</div>
+</div>
 
 # 🎓 Educations
 
@@ -247,6 +247,9 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 - 肖启伟, 周星, **黄石峰**, 张建华, 黄键. 一种工业机器人工具坐标系及零点自标定方法 [中国], 发明专利, 专利号: ZL 2021 1 0699023.6, 授权下证
 
 - 罗健, 朱志红, **黄石峰**. 一种工业机器人编程轨迹诊断及速度优化的方法 [中国], 发明专利, 专利号: ZL 2018 1 0382999.9, 授权下证
+  
+  </div>
+  </div>
 
 # 👨‍💻 Projects
 

@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Shifeng Huang"
-url: https://huangshifenghust.github.io
-description              : ""
-# repository               : "HuangShifengHUST/HuangShifengHUST.github.io"
+
+description              : "This is the academic homepage of Dr. Huang."
+repository               : "HuangShifengHUST/HuangShifengHUST.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

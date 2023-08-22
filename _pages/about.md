@@ -126,9 +126,9 @@ Central South University, Changsha, China
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH 2021 (TOP)</div><img src='images/EDS_TMECH_FIG1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
+- Robust Estimation for an Extended Dynamic Parameter Set of Serial Manipulators and Unmodeled Dynamics Compensation.
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
+**Shifeng Huang**, Chen Jihong, Zhang Jianwei, Zhu Zhihong, Zhou Huicheng, Li Fan and Zhou Xing. IEEE/ASME Transactions on Mechatronics, vol. 27, no. 2, pp. 962-973, 2021. **<font color='red'> (Q1，TOP) </font>** \| [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9419753)
 
 </div>
 </div>

@@ -178,12 +178,10 @@ He Yiming, Chen Jihong, Zhou Xing and **Shifeng Huang (通讯作者)**. Journal 
 
 - 六关节工业机器人TCP标定模型研究与算法改进
 
-周星, **黄石峰 (通讯作者)**, 朱志红. 机械工程学报, 第 55 卷, 第 11 期: 186-196, 2019. **(EI, 高质量期刊)** | [\[PDF\]](http://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2019.11.186)
+周星, **黄石峰 (通讯作者)**, 朱志红. 机械工程学报, 第 55 卷, 第 11 期: 186-196, 2019. **(EI, 机械工程领域高质量科技期刊, 分级: T1)** | [\[PDF\]](http://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2019.11.186)
 
 </div>
 </div>
-
-
 
 - [Revisiting AUC-oriented Adversarial Training with Loss-Agnostic Perturbations](https://ieeexplore.ieee.org/abstract/document/10214340). Zhiyong Yang, Qianqian Xu, Wenzheng Hou, Shilong Bao, Yuan He, Xiaochun Cao and Qingming Huang. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2023. \| [\[Code\]](https://github.com/statusrank/AUC-Oriented-Adversarial-Training) \|
 

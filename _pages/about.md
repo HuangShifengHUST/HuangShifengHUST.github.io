@@ -275,6 +275,16 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOTP 2021</div><img src='images/TOTP_XXKZ_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- 全动力学约束的机器人高效时间最优轨迹规划
+
+赵志强, 朱志红, 周星, **黄石峰**, 李岩. 信息与控制, 第50卷, 第6期: 701-708, 2021. ** **(EI)** | [\[PDF\]](https://xk.sia.cn/CN/10.13976/j.cnki.xk.2021.0546)
+
+</div>
+</div>
+
 ### 2020
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAR BEST PRESENTATION</div><img src='images/Grinding_ICCAR_2020.gif' alt="sym" width="100%"></div></div>
@@ -294,7 +304,7 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 
 - 六关节工业机器人TCP标定模型研究与算法改进
 
-周星, **黄石峰 (通讯作者)**, 朱志红. 机械工程学报, 第 55 卷, 第 11 期: 186-196, 2019. **(EI, 机械工程领域高质量科技期刊, 分级: T1)** | [\[PDF\]](http://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2019.11.186)
+周星, **黄石峰 (通讯作者)**, 朱志红. 机械工程学报, 第55卷, 第11期: 186-196, 2019. **(EI, 机械工程领域高质量科技期刊, 分级: T1)** | [\[PDF\]](http://qikan.cmes.org/jxgcxb/CN/10.3901/JME.2019.11.186)
 
 </div>
 </div>

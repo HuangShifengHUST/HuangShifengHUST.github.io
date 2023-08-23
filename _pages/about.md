@@ -141,7 +141,7 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515)
 <div><img src='images/HUST.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 
-- 2016.09 - 2019.09, Doctoral student
+- 2016.09 - 2023.09, Doctoral student
   
   Major: Mechanical engineering
 

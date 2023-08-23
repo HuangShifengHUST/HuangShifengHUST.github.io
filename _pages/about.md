@@ -280,7 +280,7 @@ Zhu Zhihong, Gong Zhihao, Zhang Yuexiang, Chen Simin, Zhao Zhiqiang, Zhou Xing, 
 
 - 全动力学约束的机器人高效时间最优轨迹规划
 
-赵志强, 朱志红, 周星, **黄石峰**, 李岩. 信息与控制, 第50卷, 第6期: 701-708, 2021. ** **(EI)** | [\[PDF\]](https://xk.sia.cn/CN/10.13976/j.cnki.xk.2021.0546)
+赵志强, 朱志红, 周星, **黄石峰**, 李岩. 信息与控制, 第50卷, 第6期: 701-708, 2021. **(EI)** | [\[PDF\]](https://xk.sia.cn/CN/10.13976/j.cnki.xk.2021.0546)
 
 </div>
 </div>

@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research of industrial robots, and aims to bridge the gap between theoretical research and practical engineering applications. Dr. Huang is an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education and was mentored by Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
+Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515) focuses on the research of industrial robots, and aims to bridge the gap between theoretical research and practical engineering applications. Dr. Huang is an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education and was mentored by Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
 
 # 🔥 Research Interests
 
@@ -75,31 +75,31 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 - 工程效果：实现了工具坐标系的最优构型标定。
 
-- 学术成果：在《机械工程学报》期刊发表高水平论文一篇，荣获中国专利优秀奖。
+- 学术成果：在《机械工程学报》期刊发表高水平论文一篇，荣获2019年度中国专利优秀奖。
 
 **2017年-2019年**  连续微小线段插补
 
-- 责任定位：出于实际需求，从原有动力学研究被抽调出来研究攻关小线段插补研究，本人早起作为独立研究者，在取得阶段性成果后，于2019年转交给其他工程师开发深入。
+- 责任定位：出于实际需求，从原有动力学研究被抽调出来研究攻关小线段插补研究，本人早起作为独立研究者，在取得阶段性成果后，于2019年转交给其他工程师开发深入，并指导了两名硕士研究生，分别开展了连续小线段插补与时间最优轨迹规划课题研究。
 
-- 工程效果：实现了
+- 工程效果：实现了机器人复杂轨迹加工中的动态前瞻多轴联动实时插补，考虑了运动中的几何误差约束、运动学约束、关节电机及减速机的动力学约束。
 
-- 学术成果：商业机密。
+- 学术成果：部分成果形成指导学生的硕士学位论文。
 
 **2018年-2019年**  协作机器人物理人机交互-拖动示教
 
-- 责任定位：
+- 责任定位：团队中理论研究负责人。
 
-- 工程效果：
+- 工程效果：分别实现了无关节力矩传感器的零力拖动、末端力矩传感器模式下的灵敏拖动、驱动器位置模式下的阻抗柔顺拖动、驱动器电流模式下的阻抗柔顺拖动。
 
-- 学术成果：商业机密。
+- 学术成果：部分已经是机器人圈内的公开技术，部分商业机密未发表。
 
 **2019年-2021年**  协作机器人物理人机交互-碰撞安全检测
 
-- 责任定位：
+- 责任定位：项目中的理论研究先行者，后来转交华数机器人工程师，并指导一名硕士研究生作为研究生课题。
 
-- 工程效果：
+- 工程效果：当前机器人社区广泛应用的基于广义动量观测器GMO（iiwa、Franka等机器人普遍基于该技术）的碰撞安全检测技术受限于有限带宽，对赢碰撞响应慢，而基于高通滤波器的检测技术无法有效捕捉准静态接触行为。所诉缺陷在自研的BICOM碰撞检测技术框架下得以有效解决，其兼具高灵敏性的软/硬碰撞统一化检测能力。此外，设计的窗检测器克服了经典防误报措施引起的两类常见缺陷：检测迟延和检测假阴性。
 
-- 学术成果：TMECH
+- 学术成果：在IEEE TMECH上发表一篇BICOM技术的研究论文、在ICIRA上发表一篇碰撞检测与响应的论文。
 
 **2018年-2019年**  工业机器人磨抛加工中的恒力跟踪控制
 
@@ -131,7 +131,7 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn) focuses on the research o
 
 - 工程效果：
 
-- 学术成果：硕士论文。
+- 学术成果：指导两名硕士生形成了以输入整形技术，迭代学习技术的学位论文，还有一名在读研究生，形成了创新性的“扭矩微分补偿”研究成果（暂未发表）。
 
 # 🎓 Educations
 

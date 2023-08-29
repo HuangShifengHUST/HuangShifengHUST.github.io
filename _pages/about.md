@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515) focuses on the research of industrial robots, and aims to bridge the gap between theoretical research and commercial engineering applications. Dr. Huang is an Associate Director of the Institute of Intelligent Robotics and Production Lines, National Center of Technology Innovation for Intelligent Design and Numerical Control (NCTI-IDNC). Dr. Huang also serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education and was mentored by Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
+Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515) focuses on the research of industrial robots, and aims to bridge the gap between theoretical research and commercial engineering applications. Dr. Huang serves as the Deputy Chief Engineer at the Foshan Institute of Intelligent Equipment Technology and the Director of the Key Technology Laboratory at the same institute. During his doctoral studies, he received a solid engineering education and was mentored by Prof. [Jihong Chen](http://mse.hust.edu.cn/info/1145/1434.htm) (Chairman of Huazhong Numerical Control Co., Ltd.), Prof. [Zhihong Zhu](http://mse.hust.edu.cn/info/1145/1422.htm) (Chief Engineer of Huazhong Numerical Control Co., Ltd.), and Researcher [Huicheng Zhou](http://mse.hust.edu.cn/info/1145/1432.htm) (Chief Expert at the Central Research Institute of Huazhong Numerical Control Co., Ltd.). Dr. Huang is also supervised by Prof. [Jianwei Zhang](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E4%BC%9F/22043671?fr=ge_ala) (Academician of the National Academy of Engineering Sciences in German). 
 
 # 🔥 Research Interests
 
@@ -51,27 +51,19 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515)
 
 <span class='anchor' id='-engineering-practice'></span>
 
-**总体介绍：** 所有研究工作都围绕着华数机器人展开，积极践行“学-研-产”行动方针。作为国家数控系统工程技术研究中心机器人课题组的大师兄，自觉形成了机器人课题组的青年负责人。博士期间，以华数机器人为依托，始终围绕“高速”、“高精”和“物理人机交互”等关键技术目标，身体力行并带动课题组研究生，在与华数机器人工程师联合攻关下，开展了多项富有工程实际价值的科研课题，研究成果获得华数机器人工程师一致认可，促进国产工业及协作机器人高水平发展。
-
-**补充说明：** 
-
-- 部分研究成果出于商业保密不发表学术论文；
-
-- 学术论文展现的更多是一种研究思想。从理论演算，到实验室级的证实，再到做出市场认可的商用工业产品，有着多方面因素的影响。因此学术论文往往不能简单视为产品的最终技术方案，需要科学对待；
-
-- 部分工程上实现的好效果，其实就是一层窗户纸，捅破了其实就那么回事。产品研发以市场和问题为导向，以“管用”、“好用”、“耐用”为前提，因此“一味”谈脱离市场实际所需的创新略显矫情。
+**总体介绍：** 始终秉承“学-研-产”学术思想。作为国家数控系统工程技术研究中心机器人课题组的大师兄，自觉形成了机器人课题组的青年带头人。博士期间，以华数机器人为依托，始终围绕“高速”、“高精”和“物理人机交互”等关键技术目标，身体力行并带动课题组研究生，在与华数机器人工程师联合攻关下，开展了多项富有工程实际价值的科研课题，促进国产工业及协作机器人高水平发展。
 
 **2017年-2023年**   机器人动力学建模与辨识  
 
-- 责任定位：博士研究课题，项目主导，负责所有理论研究和部分工程开发。
+- 责任定位：博士研究课题，项目主导，负责总体理论研究和部分工程开发。
 
 - 工程效果：实现了同型号不同本体机器人的动力学参数一致性辨识效果，解决了多机器人模型迁移难题，切实为量产机器人的动力学模型部署提供了成套化解决方案；形成了关节传动部件耦合的动力学建模-辨识体系化解决方案；突破了机器人任意姿态安装的动力学模型辨识难题；建立了经典串联机器人、带局部并联结构（例如，重力平衡系统：平衡缸、平行四边形系统、拉升弹簧等）的串联机器人动力学建模-辨识的规范策略；满足任意姿态安装条件下，狭小作业空间约束的负载辨识，与ABB、iiwa等国际知名品牌机器人的负载辨识功能相比，研究成果不受奇异构型制约，且可实现辨识的最优运动激励，能高精度识别负载的完整惯性参数。
 
-- 学术成果：在IEEE TMECH上发表一篇扩展动力学参数集的研究论文；出于商业保密的问题，仅部分成果允许发表。
+- 学术成果：在IEEE TMECH上发表一篇扩展动力学参数集的研究论文。
 
 **2016年-2017年**  工业机器人末端执行器TCP标定研究
 
-- 责任定位：本人机器人研究生涯的第一项任务，属本人独立研究。
+- 责任定位：本人机器人研究生涯的第一项任务，负责算法研究。
 
 - 工程效果：实现了工具坐标系的最优构型标定。
 
@@ -95,7 +87,7 @@ Shifeng Huang (黄石峰, E-mail: shifeng@hust.edu.cn，Phone: 0086+13476149515)
 
 **2019年-2021年**  协作机器人物理人机交互-碰撞安全检测
 
-- 责任定位：项目中的理论研究先行者，后来转交华数机器人工程师，并指导一名硕士研究生作为研究生课题。
+- 责任定位：项目中的理论研究先行者，后来转交工程师，并指导一名硕士研究生作为研究生课题。
 
 - 工程效果：当前机器人社区广泛应用的基于广义动量观测器GMO（iiwa、Franka等机器人普遍基于该技术）的碰撞安全检测技术受限于有限带宽，对硬碰撞响应慢，而基于高通滤波器的检测技术无法有效捕捉准静态接触行为。所诉缺陷在自研的BICom碰撞检测技术框架下得以有效解决，其兼具高灵敏性的软/硬碰撞统一化检测能力。此外，设计的窗检测器克服了经典防误报措施引起的两类常见缺陷：检测迟延和检测假阴性。
 
